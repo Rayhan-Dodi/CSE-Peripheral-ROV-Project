@@ -76,3 +76,22 @@ void loop() {
       digitalWrite(motorPin2, LOW);
    }
 }
+```
+📂 Full source: ROV.ino
+
+🚀 Future Scope
+Add vertical motor for depth control
+
+Include camera module for underwater feed
+
+Upgrade to wireless control (Bluetooth or RF)
+
+👨‍🎓 About Me
+Rayhan
+📚 B.Sc. in Computer Science & Engineering (C.S.E)
+🔧 Passionate about hardware interfacing, robotics, and creative DIY projects
+📌 Project built independently for learning & academic reporting
+🔗 GitHub Profile
+🔗 LinkedIn Profile
+
+
